@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/nflverse",
   "title": "Nflverse",
-  "description": "nflverse — NFL play-by-play, player and team stats, schedules and injury",
-  "version": "0.1.0",
+  "description": "nflverse — NFL play-by-play, player and team stats, schedules and injury reports, 1999 to the…",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/nflverse",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-nflverse",
