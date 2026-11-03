@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-nflverse",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "nflverse — NFL play-by-play, player and team stats, schedules and injury reports, 1999 to the current season.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "nflverse",
     "gatewaySlug": "nflverse",
-    "sourceHash": "v1-437f7fcb3b737f7a54926538555e8f30dc8fc36a3cf91fbd06c5e2a345fcb711",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-5d34d0d1a89e753e8c0de5c2ab15dd6f6c3c38cdbc1a213e22c2abfb263916ab",
+    "sourceCommit": "bed7faa04e7276899b5e3870ef11c98625371f2b"
   }
 }
